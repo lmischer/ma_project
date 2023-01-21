@@ -1,7 +1,5 @@
 # Computational Analysis of Šams ad-Dīn Muḥammad Saḫāwī *Aḍ-Ḍawʾ al-lāmiʿ li-ahl al-qarn at-tās*
 
-[[_TOC_]]
-
 ## The Project
 
 This project explores the possibilities of digital humanities to develop a computational analysis approach to biographical dictionaries from the Arabic written tradition.
@@ -10,7 +8,7 @@ Until now, computer-based approaches have lacked tacked tools for Arabic natural
 This project, therefore, investigates the suitability of tools for Arabic to apply computational analysis of the Digital Humanities to problems from Arabic studies, creating opportunities to answer old and new research questions dealing with biographical dictionaries.
 This approach was developed using the *Aḍ-Ḍawʾ al-lāmiʿ li-ahl al-qarn at-tāsiʿ* from Šams ad-Dīn Muḥammad Saḫāwī (d. AH 902/AD 1497) to test it.
 The approach was applied to two editions of that text.
-One edition is retrieved from Shamela,[^shamela] and the other from the openITI[^openiti] corpus.
+One edition is retrieved from Shamela ([https://shamela.ws/](https://shamela.ws/)) and the other from the openITI ([https://github.com/OpenITI](https://github.com/OpenITI)) corpus.
 
 ### Methods
 
@@ -25,17 +23,13 @@ The program is implemented in Python using the Pandas framework to facilitate wo
 Python has libraries for working with textual data, Arabic language and visualisations, furthermore data collections, making it a suitable tool to meet the demands of this project.
 The individual libraries further used are introduced in the context of the methods in which they are applied.
 In addition, Dask is used to parallelise the program and speed up processing.
-For Natural Language Processing (NLP), CAMeL Tools is used.[^CAMeLTools]
+For Natural Language Processing (NLP), CAMeL Tools is used ([https://github.com/CAMeL-Lab/camel_tools](https://github.com/CAMeL-Lab/camel_tools)).
 CAMeL Tools is selected because it is versatile, covering multiple NLP tasks needed in this project.
 The language model *calima-msa-r13* is applied for the tokenisation and disambiguation tasks, which obtains lemmas and part-of-speech tags.
 For the NER, CAMeL Tools provides several language models for direct use.
 This project uses the classical Arabic model optimised for the NER, which was trained on the openITI corpus.
 The Arabic language varies depending on the dialect used - e.g. Modern Standard Arabic or Classic Arabic - and the genre.
 Since the aḍ-Ḍawʾ is from the end of the classic period, the approach applies the Classic Arabic language model wherever possible.
-
-[^shamela] [https://shamela.ws/](https://shamela.ws/)
-[^openiti] [https://github.com/OpenITI](https://github.com/OpenITI)
-[^CAMeLTools] CAMeL-Lab. CAMeL Tools. Aug. 2021. URL: [https://github.com/CAMeL-Lab/camel_tools](https://github.com/CAMeL-Lab/camel_tools)
 
 ### Results
 
