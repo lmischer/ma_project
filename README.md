@@ -31,15 +31,23 @@ This project uses the classical Arabic model optimised for the NER, which was tr
 The Arabic language varies depending on the dialect used - e.g. Modern Standard Arabic or Classic Arabic - and the genre.
 Since the aḍ-Ḍawʾ is from the end of the classic period, the approach applies the Classic Arabic language model wherever possible.
 
-### Results
+### Example Results
 
 #### Dates
 
-![Pie Chart Date Categories of OpenITI Edition](https://github.com/[lmischer]/[ma_project]/blob/[main]/results/openiti/date_category_stat.png?raw=true)
+Pie Chart Date Categories of OpenITI Edition:
+![Pie Chart Date Categories of OpenITI Edition](https://user-images.githubusercontent.com/17195420/213867051-b8521cf6-126b-4446-85dc-6ae82a0dc48a.png)
+
+Histogram of Distribution of Dates in OpenITI Edition:
+![Histogram of Distribution of Dates in OpenITI Edition](https://user-images.githubusercontent.com/17195420/213867212-5e931f49-bd7d-48c1-90a2-5a4b39dd828a.png)
 
 #### Locations
 
-![Mapped Locations from OpenITI Edition Enriched by aṯ-Ṯurayyā Gazetteer](https://github.com/[lmischer]/[ma_project]/blob/[main]/results/openiti/Screenshot_Thurayya_Map.png?raw=true)
+Mapped Locations from OpenITI Edition Enriched by aṯ-Ṯurayyā Gazetteer:
+![Mapped Locations from OpenITI Edition Enriched by aṯ-Ṯurayyā Gazetteer](https://user-images.githubusercontent.com/17195420/213867073-d3867706-8b74-422a-8c1e-3e3edf062d7e.png)
+
+Mapped Locations from OpenITI Edition Enriched by Wikidata Gazetteer:
+![Mapped Locations from OpenITI Edition Enriched by Wikidata Gazetteer](https://user-images.githubusercontent.com/17195420/213867085-79b1de53-5223-48ed-8fc6-d463225d21c7.png)
 
 To see interactive map:
 ```shell
