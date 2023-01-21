@@ -1,0 +1,8 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المجبر,المجبر,مُجْبَر,I-PERS,noun
+الجمال,الجمال,جَمال,O,noun
+يوسف,يوسف,يُوسِف,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

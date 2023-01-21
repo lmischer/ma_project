@@ -1,0 +1,13 @@
+token,tokenized,lemma,ne_label,pos
+الصعيدي,الصعيدي,صَعِيدِيّ,O,adj
+مؤدب,مؤدب,مُؤَدَّب,O,noun
+الابناء,الأبناء,أَبْناء,O,noun
+بمكة,ب+_مكة,مَكَّة,B-LOC,noun_prop
+هو,هو,هُوَ,O,pron
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الله,الله,اللَّه,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+.,.,.,O,punc

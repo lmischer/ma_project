@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+النمراوي,النمراوي,النمراوي,B-PERS,noun_prop
+بالكسر,ب+_الكسر,كَسْر,O,noun
+نسبة,نسبة,نِسْبَة,O,noun
+لنمرى,ل+_نمري,أَنْمَر,O,noun
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+وعبد,و+_عبد,عَبْد,B-PERS,noun_prop
+العزيز,العزيز,عَزِيز,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+.,.,.,O,punc

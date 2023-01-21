@@ -1,0 +1,12 @@
+token,tokenized,lemma,ne_label,pos
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+لاجين,لاجين,لاجّ,I-PERS,noun
+الظاهر,الظاهر,ظاهِر,I-PERS,noun
+جقمق,جقمق,جقمق,I-PERS,noun_prop
+الاتي,الآتي,آتِي,O,noun
+ابوه,أبوه,أَب,O,noun
+له,له,لِ,O,prep
+ذكر,ذكر,ذَكَر,O,verb
+فيه,فيه,فِي,O,prep
+.,.,.,O,punc

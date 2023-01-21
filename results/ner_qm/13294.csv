@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+منقار,منقار,مِنْقار,I-PERS,noun
+يوسف,يوسف,يُوسِف,I-PERS,noun_prop
+الحلبي,الحلبي,حَلَبِيّ,I-PERS,noun_prop
+.,.,.,O,punc

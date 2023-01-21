@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الغني,الغنى,غِنَى,I-PERS,noun
+بن,بن,بِن,I-PERS,noun_prop
+يوسف,يوسف,يُوسِف,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+اللطيف,اللطيف,لَطِيف,I-PERS,noun_prop
+الحسيني,الحسيني,حُسَيْنِيّ,I-PERS,noun_prop
+سكنا,سكنا,سَكَن,O,noun
+الخياط,الخياط,خَيّاط,I-PERS,noun_prop
+ممن,ممن,مِن,O,prep
+سمع,سمع,سَمِع,O,verb
+مني,مني,مِن,O,prep
+بالقاهرة,ب+_القاهرة,قاهِرَة,B-LOC,noun_prop
+.,.,.,O,punc

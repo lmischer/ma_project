@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+المعيني,المعيني,المعيني,O,noun_prop
+نسبة,نسبة,نِسْبَة,O,noun
+لمعين,ل+_معين,مُعَيَّن,O,adj
+الدين,الدين,دِين,I-PERS,noun
+الابرص,الأبرص,بَرَص,I-PERS,noun
+جوهر,جوهر,جَوْهَر,B-PERS,noun_prop
+الساقي,الساقي,ساقِي,I-PERS,noun
+.,.,.,O,punc

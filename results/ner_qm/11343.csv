@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,O,noun_prop
+الفضل,الفضل,فَضْل,I-PERS,noun
+المحلي,المحلي,مَحَلِّيّ,I-PERS,adj
+في,في,فِي,O,prep
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+اللطيف,اللطيف,لَطِيف,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

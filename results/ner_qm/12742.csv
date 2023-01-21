@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+جنغل,جنغل,جنغل,I-PERS,noun_prop
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+عمر,عمر,عُمَر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

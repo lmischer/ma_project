@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+ابو,أبو,أَبُو,I-PERS,noun_prop
+الفتح,الفتح,فَتْح,I-PERS,noun
+النويري,النويري,النويري,I-PERS,noun_prop
+شقيق,شقيق,شَقِيق,O,noun
+الذي,الذي,الَّذِي,O,pron_rel
+قبله,قبله,قِبَل,O,noun
+بيض,بيض,بِيض,O,noun
+له,له,لِ,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+فهد,فهد,فَهْد,I-PERS,noun_prop
+وكانه,و+_كأنه,كَأَنَّ,O,verb_pseudo
+مات,مات,مات,O,verb
+صغيرا,صغيرا,صَغِير,O,noun
+.,.,.,O,punc

@@ -1,0 +1,10 @@
+token,tokenized,lemma,ne_label,pos
+عيسى,عيسى,عِيسَى,B-PERS,noun_prop
+البلتيني,البلتيني,البلتيني,I-PERS,noun_prop
+البجائي,البجائي,البجائي,I-PERS,noun_prop
+.,.,.,O,punc
+مات,مات,مات,O,verb
+سنة,سنة,سَنَة,O,noun
+خمس,خمس,خَمْس,O,adj
+وعشرين,و+_عشرين,عِشْرُون,O,noun
+.,.,.,O,punc

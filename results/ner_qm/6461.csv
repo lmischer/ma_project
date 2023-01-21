@@ -1,0 +1,8 @@
+token,tokenized,lemma,label,pos
+عيسى,عيسى,عِيسَى,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عطية,عطية,عَطِيَّة,I-PERS,noun
+النعيمي,النعيمي,نُعَيْمِيّ,I-PERS,noun_prop
+ابو,أبو,أَبُو,O,noun_prop
+عزارة,عزارة,عزاره,I-PERS,noun_prop
+.,.,.,O,punc

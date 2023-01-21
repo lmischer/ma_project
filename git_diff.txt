@@ -1,0 +1,413 @@
+diff --git a/results/openiti/qm/samples/10116_misc.csv b/results/openiti/qm/samples/10116_misc.csv
+index 29e6404..210d18c 100644
+--- a/results/openiti/qm/samples/10116_misc.csv
++++ b/results/openiti/qm/samples/10116_misc.csv
+@@ -1,3 +1,3 @@
+-0,1
+-باب,القرافة
+-الله,
++0
++القرافة
++الله
+diff --git a/results/openiti/qm/samples/10184_pers.csv b/results/openiti/qm/samples/10184_pers.csv
+index 9e9f95f..ddbbb46 100644
+--- a/results/openiti/qm/samples/10184_pers.csv
++++ b/results/openiti/qm/samples/10184_pers.csv
+@@ -1,7 +1,7 @@
+ 0
+ نعير نون
+ محمد بن حيار
+-خفيفة بن مهنا بن عيسى بن مهنا بن مانع بن حديثة شمس الدين
++بن مهنا بن عيسى بن مهنا بن مانع بن حديثة شمس الدين
+ نعير
+ يلبغا الناصري
+ الظاهر
+diff --git a/results/openiti/qm/samples/10518_pers.csv b/results/openiti/qm/samples/10518_pers.csv
+index e80082e..9868f2e 100644
+--- a/results/openiti/qm/samples/10518_pers.csv
++++ b/results/openiti/qm/samples/10518_pers.csv
+@@ -1,7 +1,7 @@
+ 0
+ يوسف بن خلد بن نعيم بن مقدم بن محمد بن حسن بن غانم
+ عليم بن محمد بن على الجمال أبو المحاسن الطائي
+-القاهري المالكي
++المالكي
+ الشمس
+ محمد الماضيين
+ سليمان
+@@ -10,7 +10,7 @@
+ ابن مرزوق
+ نور الدين الحلاوى
+ عمر بن عادل الحنبلي
+-ك+ التاج القروي
++القروي
+ ابن خلدون
+ الجمال البشبيشي
+ خليل البردة
+diff --git a/results/openiti/qm/samples/1055_pers.csv b/results/openiti/qm/samples/1055_pers.csv
+index b23be21..6a1fb1e 100644
+--- a/results/openiti/qm/samples/1055_pers.csv
++++ b/results/openiti/qm/samples/1055_pers.csv
+@@ -4,7 +4,7 @@
+ أبو الفضل الناشري
+ عبد المجيد الآتي
+ أحمد
+-المجد اللغوي
++اللغوي
+ ابن الجزري
+ عبد الله بن محمد الناشري
+ على بن أحمد الجلاد
+diff --git a/results/openiti/qm/samples/10847_pers.csv b/results/openiti/qm/samples/10847_pers.csv
+index 206bbbf..7a69681 100644
+--- a/results/openiti/qm/samples/10847_pers.csv
++++ b/results/openiti/qm/samples/10847_pers.csv
+@@ -1,5 +1,5 @@
+ 0
+ أبو بكر بن على بن سالم بن أحمد التقى الكناني العامري
+-ابن عم
++عم
+ الزبداني
+ المقريزي
+diff --git a/results/openiti/qm/samples/1107_misc.csv b/results/openiti/qm/samples/1107_misc.csv
+index d5fcead..2b4f5c0 100644
+--- a/results/openiti/qm/samples/1107_misc.csv
++++ b/results/openiti/qm/samples/1107_misc.csv
+@@ -1,3 +1,3 @@
+-0,1
+-ب+_الجامع,الأموي
+-الله,
++0
++الأموي
++الله
+diff --git a/results/openiti/qm/samples/11159_pers.csv b/results/openiti/qm/samples/11159_pers.csv
+index b2e2359..ecaf97c 100644
+--- a/results/openiti/qm/samples/11159_pers.csv
++++ b/results/openiti/qm/samples/11159_pers.csv
+@@ -4,4 +4,4 @@
+ إبراهيم بن على بن محمد بن أبي السعود
+ محمد بن حسين بن على بن أحمد بن عطية بن ظهيرة
+ أبو السعود بن ظهيرة
+-أبي البركات
++البركات
+diff --git a/results/openiti/qm/samples/11405_pers.csv b/results/openiti/qm/samples/11405_pers.csv
+index 343e377..7664138 100644
+--- a/results/openiti/qm/samples/11405_pers.csv
++++ b/results/openiti/qm/samples/11405_pers.csv
+@@ -1,2 +1,2 @@
+ 0
+-أبو القسم
++القسم
+diff --git a/results/openiti/qm/samples/11591_pers.csv b/results/openiti/qm/samples/11591_pers.csv
+index 35dbe6d..591b098 100644
+--- a/results/openiti/qm/samples/11591_pers.csv
++++ b/results/openiti/qm/samples/11591_pers.csv
+@@ -5,11 +5,11 @@
+ تقي الدين محمد بن محمد بن عمر بن رسلان البلقيني
+ أحمد بن عبد الخالق السيوطي
+ عبد الله بن محمد بن عيسى الزيتوني
+-ابن الجمال
++الجمال
+ محمد بن عمر البارنباري
+ بهاء الدين محمد بن محمد بن محمود البالسي
+ محمدا
+-ابن أحمد بن محمد بن أحمد الذروي
++أحمد بن محمد بن أحمد الذروي
+ أحمد بن يوسف بن حجاج السفطي
+ محمد بن عبد اللطيف السنباطي
+ محمد بن محمد بن عبد الله بن أحمد بن الزفتاوي
+diff --git a/results/openiti/qm/samples/12704_pers.csv b/results/openiti/qm/samples/12704_pers.csv
+index ff67b37..deaead9 100644
+--- a/results/openiti/qm/samples/12704_pers.csv
++++ b/results/openiti/qm/samples/12704_pers.csv
+@@ -1,5 +1,5 @@
+ 0
+-ابن البهلوان
++البهلوان
+ محمد بن محمد بن إبراهيم
+ البدر
+ محمد
+diff --git a/results/openiti/qm/samples/14137_pers.csv b/results/openiti/qm/samples/14137_pers.csv
+index fe7a1cb..6ac3117 100644
+--- a/results/openiti/qm/samples/14137_pers.csv
++++ b/results/openiti/qm/samples/14137_pers.csv
+@@ -1,4 +1,4 @@
+ 0
+ فاطمة
+-أبي الفضل
++الفضل
+ محمد بن عبد الرحمن بن على بن أحمد العقيلي النويري
+diff --git a/results/openiti/qm/samples/14144_pers.csv b/results/openiti/qm/samples/14144_pers.csv
+index 355a3fd..8275b37 100644
+--- a/results/openiti/qm/samples/14144_pers.csv
++++ b/results/openiti/qm/samples/14144_pers.csv
+@@ -1,6 +1,6 @@
+ 0
+ فاطمة
+-أبي البركات
++البركات
+ محمد بن على بن أبي البركات
+ محمد بن أبي السعود محمد بن حسين بن ظهيرة القرشي
+ الجمال
+diff --git a/results/openiti/qm/samples/1453_pers.csv b/results/openiti/qm/samples/1453_pers.csv
+index 5e57bec..64d3521 100644
+--- a/results/openiti/qm/samples/1453_pers.csv
++++ b/results/openiti/qm/samples/1453_pers.csv
+@@ -2,4 +2,4 @@
+ أحمد بن محمد بن عبد المهيمن
+ المقريزي
+ محمد
+-قبل المهيمن
++المهيمن
+diff --git a/results/openiti/qm/samples/1704_orgs.csv b/results/openiti/qm/samples/1704_orgs.csv
+index 85e6ad9..93b8c29 100644
+--- a/results/openiti/qm/samples/1704_orgs.csv
++++ b/results/openiti/qm/samples/1704_orgs.csv
+@@ -1,2 +1,2 @@
+-0,1
+-كرك,نوح
++0
++نوح
+diff --git a/results/openiti/qm/samples/1730_misc.csv b/results/openiti/qm/samples/1730_misc.csv
+index dc37a07..f1fcfc1 100644
+--- a/results/openiti/qm/samples/1730_misc.csv
++++ b/results/openiti/qm/samples/1730_misc.csv
+@@ -1,2 +1,2 @@
+-0,1
+-دار,الأمارة
++0
++الأمارة
+diff --git a/results/openiti/qm/samples/2166_locs.csv b/results/openiti/qm/samples/2166_locs.csv
+index 406e9e3..321fc1e 100644
+--- a/results/openiti/qm/samples/2166_locs.csv
++++ b/results/openiti/qm/samples/2166_locs.csv
+@@ -1,6 +1,6 @@
+ 0
+ الإسماعيلية
+-قلعة الكهف
++الكهف
+ الإسماعيلية
+ طرابلس
+ طرابلس
+diff --git a/results/openiti/qm/samples/24_institutions.csv b/results/openiti/qm/samples/24_institutions.csv
+index b100115..f08f51e 100644
+--- a/results/openiti/qm/samples/24_institutions.csv
++++ b/results/openiti/qm/samples/24_institutions.csv
+@@ -1,2 +1,2 @@
+-category,name
+-خانقاه,الجمالية
++0
++"<bound method Institution.__str__ of {'category': 'خانقاه', 'name': 'الجمالية', 'context': nan}>"
+diff --git a/results/openiti/qm/samples/2845_pers.csv b/results/openiti/qm/samples/2845_pers.csv
+index e454270..650c2c2 100644
+--- a/results/openiti/qm/samples/2845_pers.csv
++++ b/results/openiti/qm/samples/2845_pers.csv
+@@ -1,4 +1,4 @@
+ 0
+ حسن بن محمد بن أحمد بن على بن محمد بن محمد بن على بن أحمد ابن البدر
+-ابن شيخنا
++شيخنا
+ ابن حجر
+diff --git a/results/openiti/qm/samples/3428_misc.csv b/results/openiti/qm/samples/3428_misc.csv
+index 6339af3..e179c00 100644
+--- a/results/openiti/qm/samples/3428_misc.csv
++++ b/results/openiti/qm/samples/3428_misc.csv
+@@ -1,2 +1,2 @@
+-"Automated","Manually","Truth"
+-"الله",,
++0
++الله
+diff --git a/results/openiti/qm/samples/3880_pers.csv b/results/openiti/qm/samples/3880_pers.csv
+index 02fad99..2d13ce0 100644
+--- a/results/openiti/qm/samples/3880_pers.csv
++++ b/results/openiti/qm/samples/3880_pers.csv
+@@ -1,6 +1,6 @@
+ 0
+ عبد الرحمن بن أبي بكر بن عبد الرحمن بن محمد بن أحمد بن سليمان بن حمزة بن أحمد بن عمر بن الشيخ أبي عمر زين الدين بن العماد القرشي
+-المقدسي الNOAN
++الNOAN
+ عبد الله
+ ناصر الدين محمد الآتيين
+ ابن زريق
+diff --git a/results/openiti/qm/samples/3939_pers.csv b/results/openiti/qm/samples/3939_pers.csv
+index 38bb085..deaa7a9 100644
+--- a/results/openiti/qm/samples/3939_pers.csv
++++ b/results/openiti/qm/samples/3939_pers.csv
+@@ -4,7 +4,7 @@
+ أبي بكر الآتيين
+ ابن قاضي عجلون
+ الزين خطاب
+-ك+ التقى الاذرعي
++الاذرعي
+ البدر بن قاضي شهبه
+ العلاء بن بردس
+ النجم
+diff --git a/results/openiti/qm/samples/4302_locs.csv b/results/openiti/qm/samples/4302_locs.csv
+index f987ee1..a8f2b99 100644
+--- a/results/openiti/qm/samples/4302_locs.csv
++++ b/results/openiti/qm/samples/4302_locs.csv
+@@ -1,4 +1,4 @@
+ 0
+ الغربية
+ الدوادارية
+-أدى النزاع
++النزاع
+diff --git a/results/openiti/qm/samples/4522_pers.csv b/results/openiti/qm/samples/4522_pers.csv
+index 4b31091..76d85ca 100644
+--- a/results/openiti/qm/samples/4522_pers.csv
++++ b/results/openiti/qm/samples/4522_pers.csv
+@@ -12,7 +12,7 @@
+ العلاء الكناني الحنبلي
+ البدر حسين البوصيري
+ عبد الرحيم بن المحب
+-ابن ناظر
++ناظر
+ الجمال الكازروني
+ البرهاني بن ظهيرة
+ زينب
+diff --git a/results/openiti/qm/samples/5164_pers.csv b/results/openiti/qm/samples/5164_pers.csv
+index 25fcfe1..ac3d901 100644
+--- a/results/openiti/qm/samples/5164_pers.csv
++++ b/results/openiti/qm/samples/5164_pers.csv
+@@ -17,7 +17,7 @@
+ العز بن الفرات
+ الفتحي
+ زينب ابنة اليافعي
+-ك+ أبي ذر
++ذر
+ إبراهيم الناجي
+ حسن بن نهان
+ والبقاعي
+diff --git a/results/openiti/qm/samples/6173_pers.csv b/results/openiti/qm/samples/6173_pers.csv
+index d5c9920..2a0d589 100644
+--- a/results/openiti/qm/samples/6173_pers.csv
++++ b/results/openiti/qm/samples/6173_pers.csv
+@@ -1,5 +1,5 @@
+ 0
+ عمر بن أحمد بن إبراهيم بن محمد بن عيسى بن مطير الحكمي
+-اليماني الشافعي
++الشافعي
+ أبي القسم
+ الفتى
+diff --git a/results/openiti/qm/samples/6412_pers.csv b/results/openiti/qm/samples/6412_pers.csv
+index 90987bc..5cdccba 100644
+--- a/results/openiti/qm/samples/6412_pers.csv
++++ b/results/openiti/qm/samples/6412_pers.csv
+@@ -1,4 +1,4 @@
+ 0
+ عمر البهرمشي
+-المحلي الغمري
++الغمري
+ أبي عبد الله الغمري
+diff --git a/results/openiti/qm/samples/6895_pers.csv b/results/openiti/qm/samples/6895_pers.csv
+index c04534e..d05a0d6 100644
+--- a/results/openiti/qm/samples/6895_pers.csv
++++ b/results/openiti/qm/samples/6895_pers.csv
+@@ -4,7 +4,7 @@
+ عبد الله الشمس الشطنوفي
+ القاهري الشافعي
+ أحمد الماضي
+-التقى الواسطي
++الواسطي
+ بالشيخونية
+ والمقريزي
+ والشمني
+diff --git a/results/openiti/qm/samples/7736_pers.csv b/results/openiti/qm/samples/7736_pers.csv
+index f5c6c9a..786b8d5 100644
+--- a/results/openiti/qm/samples/7736_pers.csv
++++ b/results/openiti/qm/samples/7736_pers.csv
+@@ -2,11 +2,11 @@
+ محمد بن عبد الرحمن بن رجب
+ محمد بن رجب
+ محمد بن عبد الرحمن بن سالم بن سليمان بن مشعل
+-أم ابن غزي
++ابن غزي
+ أبو بكر الدمشقي الشافعي
+ محمد بن عبد الله بن الفخر البعلي
+ ابن غزي
+-أبي الهول
++الهول
+ عبد الرحمن بن عبد الله بن محمد بن الفخر البلعي
+ محمد بن محمد بن عبد الله بن عمر بن عوض
+ عمر بن محمد بن أحمد النابلسي
+diff --git a/results/openiti/qm/samples/7788_pers.csv b/results/openiti/qm/samples/7788_pers.csv
+index b02cb82..26667d6 100644
+--- a/results/openiti/qm/samples/7788_pers.csv
++++ b/results/openiti/qm/samples/7788_pers.csv
+@@ -1,7 +1,7 @@
+ 0
+ محمد بن عبد الرحيم بن أحمد الشمس المصري الشافعي المنهاجي
+ الشمس
+-بن اللبان
++اللبان
+ محمد ابن جماعة
+ الشمس بن القطان
+ جمعي
+diff --git a/results/openiti/qm/samples/7904_misc.csv b/results/openiti/qm/samples/7904_misc.csv
+index eb39206..96af7ca 100644
+--- a/results/openiti/qm/samples/7904_misc.csv
++++ b/results/openiti/qm/samples/7904_misc.csv
+@@ -1,7 +1,7 @@
+-0,1
+-القرآن,
+-الله,
+-الله,
+-الله,
+-الجامع,الأموي
+-الله,
++0
++القرآن
++الله
++الله
++الله
++الأموي
++الله
+diff --git a/results/openiti/qm/samples/7935_pers.csv b/results/openiti/qm/samples/7935_pers.csv
+index 18b41af..b4b6ef4 100644
+--- a/results/openiti/qm/samples/7935_pers.csv
++++ b/results/openiti/qm/samples/7935_pers.csv
+@@ -49,12 +49,12 @@
+ ابن تيمية
+ ابن تيمية
+ العلاء
+-الشهاب ابن المحمرة
++ابن المحمرة
+ التقى بن قاضي شهبه
+ البلاطنسي
+ الذهبي
+ الذهبي
+-مفيد الشام
++الشام
+ البرهان الحلبي
+ الذهبي
+ ابن خطيب الناصرية
+diff --git a/results/openiti/qm/samples/8365_pers.csv b/results/openiti/qm/samples/8365_pers.csv
+index e69fddd..7dbcc47 100644
+--- a/results/openiti/qm/samples/8365_pers.csv
++++ b/results/openiti/qm/samples/8365_pers.csv
+@@ -1,6 +1,6 @@
+ 0
+ محمد بن عمر بن عبد العزيز بن أحمد بن محمد بن الشيخ على البدر بن الخواجا
+-الكارمي بن العز أبي عمر بن الصلاح
++بن العز أبي عمر بن الصلاح
+ سليمان
+ تجار
+ ناصر الدين بن مسلم
+diff --git a/results/openiti/qm/samples/9579_pers.csv b/results/openiti/qm/samples/9579_pers.csv
+index 038d697..bc3a1dd 100644
+--- a/results/openiti/qm/samples/9579_pers.csv
++++ b/results/openiti/qm/samples/9579_pers.csv
+@@ -2,4 +2,4 @@
+ محمد بن أبي يزيد بن حسن جمال الدين
+ سلطان
+ الكمال التبريزي
+-أربعي النووي
++النووي
+diff --git a/results/openiti/qm/samples/959_misc.csv b/results/openiti/qm/samples/959_misc.csv
+index ce09c80..1fae49d 100644
+--- a/results/openiti/qm/samples/959_misc.csv
++++ b/results/openiti/qm/samples/959_misc.csv
+@@ -1,2 +1,2 @@
+-0,1
+-بيت,الآبار
++0
++الآبار

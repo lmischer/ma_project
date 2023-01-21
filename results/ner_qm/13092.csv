@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عين,عين,عَيْن,O,noun_prop
+الغزال,الغزال,غَزال,I-PERS,noun_prop
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+خليل,خليل,خَلِيل,I-PERS,noun_prop
+ومضى,و+_مضى,مَضَى,O,verb
+في,في,فِي,O,prep
+الحسني,الحسنى,أَحْسَن,B-PERS,noun
+.,.,.,O,punc

@@ -1,0 +1,6 @@
+token,tokenized,lemma,ne_label,pos
+رضوان,رضوان,رِضْوان,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+هلال,هلال,هِلال,I-PERS,noun_prop
+الاندلسي,الأندلسي,أَنْدَلُسِيّ,I-PERS,adj
+.,.,.,O,punc

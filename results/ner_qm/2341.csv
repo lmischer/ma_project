@@ -1,0 +1,12 @@
+token,tokenized,lemma,label,pos
+برجان,برجان,بُرْج,B-PERS,noun
+قرا,قرآ,قَرَأ,O,verb
+الناصري,الناصري,ناصِرِيّ,I-PERS,adj
+.,.,.,O,punc
+كتب,كتب,كَتَب,O,verb
+عنه,عنه,عَن,O,prep
+البدري,البدري,البدري,B-PERS,noun_prop
+في,في,فِي,O,prep
+مجموعه,مجموعه,مَجْمُوع,O,noun
+قوله,قوله,قَوْل,O,noun
+:,:,:,O,punc

@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+قاسم,قاسم,قاسِم,B-PERS,noun_prop
+الحنفي,الحنفي,حَنَفِيّ,I-PERS,noun_prop
+اثنان,ٱثنان,ٱِثْنانِ,O,adj
+:,:,:,O,punc
+مصري,مصري,مِصْرِيّ,O,adj
+وهو,و+_هو,هُوَ,O,pron
+ابن,ابن,ٱِبْن,O,noun_prop
+قطلوبغا,قطلوبغا,قطلوبغا,I-PERS,noun_prop
+ودمشقي,و+_دمشقي,دِمَشْق,B-PERS,noun_prop
+مضى,مضى,مَضَى,O,verb
+قريبا,قريبا,قَرِيب,O,adj
+.,.,.,O,punc

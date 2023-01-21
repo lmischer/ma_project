@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+العال,الNOAN,عال,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

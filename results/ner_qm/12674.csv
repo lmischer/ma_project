@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+البابا,البابا,بابا,I-PERS,noun_prop
+الشهاب,الشهاب,شِهاب,O,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+ومحمد,و+_محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سعيد,سعيد,سَعِيد,I-PERS,noun_prop
+.,.,.,O,punc

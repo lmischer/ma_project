@@ -1,0 +1,10 @@
+token,tokenized,lemma,ne_label,pos
+يلبغا,يلبغا,يلبغا,B-PERS,noun_prop
+المنجكي,المنجكي,المنجكي,I-PERS,noun_prop
+الاشرفي,الاشرفي,الاشرفي,I-PERS,noun_prop
+.,.,.,O,punc
+مات,مات,مات,O,verb
+سنة,سنة,سَنَة,O,noun
+ثمان,ثمان,ثَمانِي,O,noun
+وثمانمائة,و+_ثمانمائة,ثَمانِمائَة,O,noun
+.,.,.,O,punc

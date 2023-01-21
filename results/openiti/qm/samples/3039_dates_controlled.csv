@@ -1,0 +1,3 @@
+"year","month","month_str","day","category","match","place","Truth"
+784,1,"محرم",,"birth"," ولد في المحرم سنة اربع وثمانين وسبعمائة بسرمين","سرمين",TRUE
+12,,,,"death"," مات سنة اثنتي عشرة",,TRUE

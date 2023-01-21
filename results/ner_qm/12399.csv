@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+الفيسي,الفيسي,الفيسي,B-PERS,noun_prop
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+الفيسي,الفيسي,الفيسي,I-PERS,noun_prop
+.,.,.,O,punc

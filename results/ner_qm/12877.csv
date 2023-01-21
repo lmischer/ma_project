@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الزاهد,الزاهد,زاهِد,I-PERS,noun
+في,في,فِي,O,prep
+الزاهد,الزاهد,زاهِد,O,noun
+.,.,.,O,punc

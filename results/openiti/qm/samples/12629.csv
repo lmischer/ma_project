@@ -1,0 +1,10 @@
+token,tokenized,lemma,ne_label,pos
+اليبناوي,اليبناوي,اليبناوي,O,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+اللطيف,اللطيف,لَطِيف,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+موسى,موسى,مُوسَى,I-PERS,noun_prop
+وابوه,و+_أبوه,أَب,I-PERS,noun
+.,.,.,O,punc

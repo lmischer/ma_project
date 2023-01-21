@@ -1,0 +1,14 @@
+token,tokenized,lemma,ne_label,pos
+ام,أم,أَم,O,conj
+الصلاح,الصلاح,صَلاح,B-PERS,noun_prop
+الطرابلسي,الطرابلسي,طَرابُلْسِيّ,I-PERS,noun_prop
+شيخ,شيخ,شَيْخ,O,noun
+الاشرفية,الNOAN,اشرفيه,B-LOC,noun_prop
+،,،,،,O,punc
+ماتت,ماتت,مات,O,verb
+في,في,فِي,O,prep
+ذي,ذي,ذُو,O,noun
+القعدة,القعدة,قَعْدَة,O,noun
+سنة,سنة,سَنَة,O,noun
+ثمان,ثمان,ثَمانِي,O,noun
+وثمانين,و+_ثمانين,ثَمانِي,O,noun

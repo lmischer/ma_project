@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+العثماني,العثماني,عُثْمانِيّ,O,adj
+نسبة,نسبة,نِسْبَة,O,noun
+لعثمان,ل+_عثمان,عُثْمان,O,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عفان,عفان,عَفّان,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+خضير,خضير,خَضِير,I-PERS,noun
+.,.,.,O,punc

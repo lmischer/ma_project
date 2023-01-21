@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+الناجي,الناجي,ناجِي,I-PERS,noun
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمود,محمود,مَحْمُود,I-PERS,noun_prop
+.,.,.,O,punc

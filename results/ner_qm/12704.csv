@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+البهلوان,البهلوان,بَهْلَوان,I-PERS,noun
+الشمس,الشمس,شَمْس,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+وابنه,و+_ابنه,ٱِبْن,O,noun
+البدر,البدر,بَدْر,B-PERS,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+وابنه,و+_ابنه,ٱِبْن,O,noun
+الشهاب,الشهاب,شِهاب,B-PERS,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+.,.,.,O,punc

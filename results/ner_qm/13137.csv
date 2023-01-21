@@ -1,0 +1,7 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الفيسي,الفيسي,الفيسي,I-PERS,noun_prop
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+اسكندر,إسكندر,إِسْكَنْدَر,I-PERS,noun_prop
+.,.,.,O,punc

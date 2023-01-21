@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+قلمطاي,قلمطاي,قلمطاي,O,noun_prop
+الناصري,الناصري,ناصِرِيّ,I-PERS,adj
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+ومحمود,و+_محمود,مَحْمُود,I-PERS,noun_prop
+واختهما,و+_أختهما,أُخْت,O,noun
+لابيهما,ل+_أبيهما,أَب,O,noun
+فاطمة,فاطمة,فاطِمَة,B-PERS,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المعلى,المعلى,مُعَلَّى,I-PERS,adj
+اسماعيل,إسماعيل,إِسْماعِيل,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+هلال,هلال,هِلال,I-PERS,noun_prop
+.,.,.,O,punc

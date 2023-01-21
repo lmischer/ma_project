@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+اسماعيل,إسماعيل,إِسْماعِيل,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+مروان,مروان,مَرْوان,I-PERS,noun_prop
+،,،,،,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+مروان,مروان,مَرْوان,I-PERS,noun_prop
+.,.,.,O,punc

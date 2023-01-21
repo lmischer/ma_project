@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+العميري,العميري,العميري,B-PERS,noun_prop
+بالتصغير,ب+_التصغير,تَصْغِير,O,noun
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+الواعظ,الواعظ,واعِظ,I-PERS,noun
+الموقع,الموقع,مَوْقِع,O,noun
+بباب,ب+_باب,باب,O,noun
+الدوادار,الدوادار,الدوادار,I-LOC,noun_prop
+يشبك,يشبك,شاب,O,verb
+من,من,مِن,O,prep
+مهدي,مهدي,مَهْدِيّ,B-PERS,noun_prop
+.,.,.,O,punc

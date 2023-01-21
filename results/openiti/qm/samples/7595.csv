@@ -1,0 +1,16 @@
+token,tokenized,lemma,ne_label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+الشامي,الشامي,شامِيّ,I-PERS,noun
+الصواف,الصواف,صَوّاف,I-PERS,noun
+.,.,.,O,punc
+ممن,ممن,مِن,O,prep
+سمع,سمع,سَمِع,O,verb
+مني,مني,مِن,O,prep
+القاهرة,القاهرة,قاهِرَة,B-LOC,noun_prop
+ايضا,أيضا,أَيْض,O,noun
+.,.,.,O,punc

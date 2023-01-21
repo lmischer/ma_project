@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+المرصفي,المرصفي,المرصفي,B-PERS,noun_prop
+نسبة,نسبة,نِسْبَة,O,noun
+لمرج,ل+_مرج,مَرَج,O,noun
+صفا,صفا,صَفاً,I-PERS,noun
+بالشرقية,ب+_الشرقية,شَرْقِيّ,B-LOC,adj
+جماعة,جماعة,جَماعَة,O,noun
+منهم,منهم,مِن,O,prep
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عباس,عباس,عَبّاس,I-PERS,noun_prop
+احد,أحد,أَحَد,O,noun
+من,من,مِن,O,prep
+اخذ,أخذ,أَخَذ,O,verb
+عني,عني,عَن,O,prep
+.,.,.,O,punc

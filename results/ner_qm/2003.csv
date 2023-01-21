@@ -1,0 +1,7 @@
+token,tokenized,lemma,label,pos
+ارغون,أرغون,أَرْجُون,O,noun
+دوادار,دوادار,دوادار,O,noun_prop
+الزيني,الزيني,الزيني,I-PERS,noun_prop
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الباسط,الباسط,باسِط,I-PERS,noun_prop
+.,.,.,O,punc

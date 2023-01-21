@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+جابر,جابر,جابِر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+موسى,موسى,مُوسَى,I-PERS,noun_prop
+الزواوي,الNOAN,زواوي,I-PERS,noun_prop
+ارخه,أرخه,رَخِي,O,verb
+ابن,ابن,ٱِبْن,I-PERS,noun_prop
+عزم,عزم,عَزْم,I-PERS,noun
+سنة,سنة,سَنَة,O,noun
+سبع,سبع,سَبْع,O,noun
+وخمسين,و+_خمسين,خَمْس,O,noun
+.,.,.,O,punc

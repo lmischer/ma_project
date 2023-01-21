@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+ابو,أبو,أَبُو,I-PERS,noun_prop
+الفتح,الفتح,فَتْح,I-PERS,noun
+الازهري,الأزهري,أَزْهَرِيّ,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+.,.,.,O,punc

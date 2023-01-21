@@ -1,0 +1,12 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+اخت,أخت,أُخْت,O,noun
+الجمال,الجمال,جَمال,B-PERS,noun
+ابن,ابن,ٱِبْن,O,noun_prop
+البحشور,البحشور,البحشور,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+العزيز,العزيز,عَزِيز,I-PERS,noun_prop
+الجوجري,الجوجري,الجوجري,I-PERS,noun_prop
+.,.,.,O,punc

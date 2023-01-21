@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+فاطمة,فاطمة,فاطِمَة,B-PERS,noun_prop
+ابنة,ابنة,ٱِبْنَة,O,noun
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+وامها,و+_أمها,أُمّ,O,noun
+بركمة,ب+_ركمه,رَكَم,I-PERS,noun
+ابنة,ابنة,ٱِبْنَة,O,noun
+اخت,أخت,أُخْت,O,noun
+شيخنا,شيخنا,شَيْخ,O,noun
+الزين,الزين,زَيْن,B-PERS,noun
+رضوان,رضوان,رِضْوان,I-PERS,noun_prop
+ذكرها,ذكرها,ذِكْر,O,noun
+البقاعي,الNOAN,بقاعي,B-PERS,noun_prop
+مجردا,مجردا,مُجَرَّد,O,noun

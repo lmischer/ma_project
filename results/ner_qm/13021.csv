@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الباري,الباري,بارِي,I-PERS,noun_prop
+تقي,تقي,تَقِيّ,B-PERS,adj
+الدين,الدين,دِين,I-PERS,noun
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+المصري,المصري,مِصْرِيّ,I-PERS,adj
+.,.,.,O,punc

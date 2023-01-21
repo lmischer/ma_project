@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+طرطور,طرطور,طَرَطُور,I-PERS,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+مهنا,مهنا,مُهَنّا,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

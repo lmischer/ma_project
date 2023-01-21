@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+فيشا,ف+_يشأ,شاء,I-PERS,verb
+حسين,حسين,حُسَيْن,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+الحسيني,الحسيني,حُسَيْنِيّ,I-PERS,noun_prop
+سكنا,سكنا,سَكَن,I-PERS,noun
+الحنفي,الحنفي,حَنَفِيّ,I-PERS,noun_prop

@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+حسن,حسن,حَسَن,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+البدر,البدر,بَدْر,I-PERS,noun
+البشكالسي,البشكالسي,البشكالسي,I-PERS,noun_prop
+القاهري,القاهري,قاهِرِيّ,O,adj
+المالكي,المالكي,مالِكِيّ,I-PERS,noun
+.,.,.,O,punc
+ممن,ممن,مِن,O,prep
+اخذ,أخذ,أَخَذ,O,verb
+عن,عن,عَن,O,prep
+شيخنا,شيخنا,شَيْخ,O,noun
+.,.,.,O,punc

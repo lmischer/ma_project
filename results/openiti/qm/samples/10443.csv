@@ -1,0 +1,12 @@
+token,tokenized,lemma,ne_label,pos
+يعقوب,يعقوب,يَعْقُوب,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+يعقوب,يعقوب,يَعْقُوب,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+يوسف,يوسف,يُوسِف,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+الحسن,الحسن,حَسَن,I-PERS,noun_prop
+الصنهاجي,الصنهاجي,الصنهاجي,I-PERS,noun_prop
+.,.,.,O,punc

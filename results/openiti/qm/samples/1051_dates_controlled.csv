@@ -1,0 +1,3 @@
+"year","month","month_str","day","category","match","place","Truth"
+2,2,"صفر",,"death"," مات في صفر سنة اثنتين",,TRUE
+,,,,," وله ستون سنة",,FALSE

@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+السعود,السعود,سُعُود,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+موسى,موسى,مُوسَى,I-PERS,noun_prop
+.,.,.,O,punc

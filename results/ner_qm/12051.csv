@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+الجوشني,الجوشني,الجوشني,O,noun_prop
+نسبة,نسبة,نِسْبَة,O,noun
+لتربة,ل+_تربة,تُرْبَة,O,noun
+ابن,ابن,ٱِبْن,O,noun_prop
+جوشن,جوشن,جوشن,I-PERS,noun_prop
+في,في,فِي,O,prep
+الدميسني,الدميسني,الدميسني,O,noun_prop
+.,.,.,O,punc

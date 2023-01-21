@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+الخالدي,الخالدي,خالِدِيّ,B-PERS,noun_prop
+نسبة,نسبة,نِسْبَة,O,noun
+لخالد,ل+_خالد,خالِد,O,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسين,حسين,حُسَيْن,I-PERS,noun_prop
+الحصني,الحصني,الحصني,I-PERS,noun_prop
+.,.,.,O,punc

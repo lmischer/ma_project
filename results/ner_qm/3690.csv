@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+طقتمر,طقتمر,طقتمر,O,noun_prop
+البارزي,البارزي,البارزي,I-PERS,noun_prop
+.,.,.,O,punc
+مات,مات,مات,O,verb
+سنة,سنة,سَنَة,O,noun
+سبع,سبع,سَبْع,O,noun
+وخمسين,و+_خمسين,خَمْس,O,noun
+.,.,.,O,punc

@@ -1,0 +1,4 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+كثير,كثير,كَثِير,I-PERS,noun
+.,.,.,O,punc

@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+العظيم,العظيم,عَظِيم,I-PERS,noun_prop
+يحيى,يحيى,يَحْيَى,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+العظيم,العظيم,عَظِيم,I-PERS,noun_prop
+الخانكي,الخانكي,الخانكي,I-PERS,noun_prop
+وولده,و+_ولده,وَلَد,O,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+العظيم,العظيم,عَظِيم,I-PERS,noun_prop
+.,.,.,O,punc

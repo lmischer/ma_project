@@ -1,0 +1,4 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الخباز,الخباز,خَبّاز,I-MISC,noun
+.,.,.,O,punc

@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+البركات,البركات,بَرَكَة,I-PERS,noun
+الخانكي,الخانكي,الخانكي,I-PERS,noun_prop
+ابو,أبو,أَبُو,O,noun_prop
+الخير,الخير,خَيْر,I-PERS,noun
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

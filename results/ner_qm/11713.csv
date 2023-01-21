@@ -1,0 +1,8 @@
+token,tokenized,lemma,label,pos
+سويدان,سويدان,سويدان,O,noun_prop
+المقري,المقرى,مِقْرَى,I-PERS,noun
+هو,هو,هُوَ,O,pron
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سعيد,سعيد,سَعِيد,I-PERS,noun_prop
+.,.,.,O,punc

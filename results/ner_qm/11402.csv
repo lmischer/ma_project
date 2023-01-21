@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,O,noun_prop
+القسم,القسم,قِسْم,I-PERS,noun
+الخطيب,الخطيب,خَطِيب,O,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

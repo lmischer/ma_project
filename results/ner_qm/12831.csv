@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الدخان,الدخان,دُخان,I-PERS,noun
+الدمشقي,الدمشقي,دِمَشْقِيّ,O,adj
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

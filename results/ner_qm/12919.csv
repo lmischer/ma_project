@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+السلعوس,السلعوس,السلعوس,I-PERS,noun_prop
+بمهملات,ب+_مهملات,مُهْمِل,O,adj
+ثانيها,ثانيها,ثانيها,O,noun_prop
+ساكنة,س+_أكنه,كان,O,verb
+ثم,ثم,ثُمَّ,O,adv
+مضمومة,مضمومة,مَضْمُوم,O,adj
+.,.,.,O,punc

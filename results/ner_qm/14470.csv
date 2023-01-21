@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ام,أم,أَم,O,conj
+الفضل,الفضل,فَضْل,I-PERS,noun
+ابنة,ابنة,ٱِبْنَة,O,noun
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+القدسي,القدسي,قُدْسِيّ,I-PERS,adj
+.,.,.,O,punc
+هاجر,هاجر,هاجَر,B-PERS,verb
+ابنة,ابنة,ٱِبْنَة,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop

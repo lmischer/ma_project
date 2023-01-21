@@ -1,0 +1,12 @@
+token,tokenized,lemma,ne_label,pos
+عزيز,عزيز,عَزِيز,B-PERS,noun_prop
+الدين,الدين,دِين,I-PERS,noun
+وقد,و+_قد,قَدْ,O,part_verb
+يقال,يقال,قال,O,verb
+فيه,فيه,فِي,O,prep
+عزيز,عزيز,عَزِيز,B-PERS,noun_prop
+ياتي,يأتي,أَتَى,I-PERS,verb
+في,في,فِي,O,prep
+الفصل,الفصل,فَصْل,O,noun
+بعده,بعده,بُعْد,O,noun
+.,.,.,O,punc

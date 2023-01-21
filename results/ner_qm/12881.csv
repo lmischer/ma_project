@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+زبيدة,زبيدة,زُبَيْدَة,I-PERS,noun_prop
+بضم,ب+_ضم,ضَمّ,O,noun
+مصغر,مصغر,مُصَغَّر,O,adj
+اليماني,اليماني,يَمانِيّ,O,adj
+ابو,أبو,أَبُو,O,noun_prop
+القسم,القسم,قِسْم,I-PERS,noun
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+مات,مات,مات,O,verb
+سنة,سنة,سَنَة,O,noun
+ثمان,ثمان,ثَمانِي,O,noun
+وخمسين,و+_خمسين,خَمْس,O,noun
+.,.,.,O,punc

@@ -1,0 +1,12 @@
+token,tokenized,lemma,label,pos
+يحيى,يحيى,يَحْيَى,B-PERS,noun_prop
+كاتب,كاتب,كاتِب,O,noun
+السر,السر,سِرّ,O,noun
+بن,بن,بِن,I-PERS,noun_prop
+الارسوبي,الارسوبي,الارسوبي,I-PERS,noun_prop
+.,.,.,O,punc
+مات,مات,مات,O,verb
+سنة,سنة,سَنَة,O,noun
+تسع,تسع,تِسْع,O,adj
+عشرة,عشرة,عَشَرَة,O,noun
+.,.,.,O,punc

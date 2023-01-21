@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المشد,المشد,مِشَدّ,I-PERS,noun
+الطولوني,الطولوني,الطولوني,O,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+موسى,موسى,مُوسَى,I-PERS,noun_prop
+.,.,.,O,punc

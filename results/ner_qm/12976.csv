@@ -1,0 +1,5 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الصدر,الصدر,صَدْر,I-PERS,noun
+الطرابلسي,الطرابلسي,طَرابُلْسِيّ,O,noun_prop
+.,.,.,O,punc

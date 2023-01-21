@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+اخت,أخت,أُخْت,O,noun
+زوجة,زوجة,زَوْجَة,O,noun
+الفيسي,الفيسي,الفيسي,B-PERS,noun_prop
+وربما,و+_ربما,رُبَّما,O,adv
+قيل,قيل,قال,O,verb
+له,له,لِ,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+بنت,بنت,بِنْت,I-PERS,noun
+الفيسي,الفيسي,الفيسي,I-PERS,noun_prop
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+اسكندر,إسكندر,إِسْكَنْدَر,I-PERS,noun_prop
+.,.,.,O,punc

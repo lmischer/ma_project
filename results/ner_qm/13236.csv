@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المحرقي,المحرقي,المحرقي,I-PERS,noun_prop
+في,في,فِي,O,prep
+المحرقي,المحرقي,المحرقي,B-PERS,noun_prop
+.,.,.,O,punc

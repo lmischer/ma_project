@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الجوازة,الجوازة,الجوازه,I-PERS,noun_prop
+بفتح,ب+_فتح,فَتْح,O,noun
+ثم,ثم,ثُمَّ,O,adv
+تشديد,تشديد,تَشْدِيد,O,noun
+ومعجمة,و+_معجمه,مُعْجَم,O,noun
+خليل,خليل,خَلِيل,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+شعبان,شعبان,شَعْبان,I-PERS,noun_prop
+.,.,.,O,punc

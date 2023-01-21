@@ -1,0 +1,9 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+البندقي,البندقي,بُنْدُقِيّ,I-PERS,noun
+الطبيب,الطبيب,طَبِيب,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+نجم,نجم,نَجْم,I-PERS,noun
+الدين,الدين,دِين,I-PERS,noun
+.,.,.,O,punc

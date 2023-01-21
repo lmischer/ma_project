@@ -1,0 +1,16 @@
+token,tokenized,lemma,ne_label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+خطيب,خطيب,خَطِيب,O,noun
+الناصرية,الناصرية,ناصِرِيّ,O,adj
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سعد,سعد,سَعْد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+عثمان,عثمان,عُثْمان,I-PERS,noun_prop
+.,.,.,O,punc

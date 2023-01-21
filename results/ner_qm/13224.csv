@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+اللحام,اللحام,لَحْم,I-PERS,noun
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+امين,أمين,أَمِين,I-PERS,noun_prop
+الدولة,الدولة,دَوْلَة,I-PERS,noun
+الحنبلي,الحنبلي,حَنْبَلِيّ,I-PERS,adj
+في,في,فِي,O,prep
+سنة,سنة,سَنَة,O,noun
+ثلاث,ثلاث,ثَلاث,O,adj
+وثمانمائة,و+_ثمانمائة,ثَمانِمائَة,O,noun
+.,.,.,O,punc

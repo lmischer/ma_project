@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+شاذى,شاذي,شاذّ,I-PERS,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+موسى,موسى,مُوسَى,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+سبط,سبط,سَبِط,I-PERS,adj
+الغمري,الغمري,الغمري,I-PERS,noun_prop
+وشقيقه,و+_شقيقه,شَقِيق,O,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+المجيد,المجيد,مَجِيد,I-PERS,noun_prop
+.,.,.,O,punc

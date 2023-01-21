@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الرزاق,الرزاق,رَزّاق,I-PERS,noun_prop
+الدواخلي,الدواخلي,الدواخلي,I-PERS,noun_prop
+نزيل,نزيل,أَزال,O,verb
+جامع,جامع,جامِع,O,noun
+الغمري,الغمري,الغمري,I-MISC,noun_prop
+ممن,ممن,مِن,O,prep
+سمع,سمع,سَمِع,O,verb
+مني,مني,مِن,O,prep
+في,في,فِي,O,prep
+سنة,سنة,سَنَة,O,noun
+خمس,خمس,خَمْس,O,adj
+وتسعين,و+_تسعين,سَعَى,O,verb

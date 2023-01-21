@@ -1,0 +1,45 @@
+# Frage
+
+* Warum taucht  Kingdom of Nejd and Hejaz (Q1756546) nicht auf?
+* Abfragen sind limitiert: alle 60 Sek. eine Abfrage, die max. 60 Sek. dauern darf
+
+
+# Erfrage alle menschlichen Siedlungen in einem Land
+
+SELECT DISTINCT ?place ?enLabel ?placeLabel ?placeAltLabel ?typeLabel ?coordinates WHERE {
+  ?place wdt:P17 wd:Q851;
+    (wdt:P31/(wdt:P279*)) wd:Q486972.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ar". }
+  ?place rdfs:label ?enLabel.
+  FILTER((LANG(?enLabel)) = "en")
+  OPTIONAL { ?place wdt:P625 ?coordinates. }
+  ?place wdt:P31 ?type.
+  ?type rdfs:label ?typeLabel.
+  FILTER(lang(?typeLabel) = "en").
+}
+
+
+# Erfragt alle heiligen Stätten in einem Land
+
+SELECT DISTINCT ?place ?enLabel ?placeLabel ?placeAltLabel ?typeLabel ?coordinates WHERE {
+  ?place wdt:P17 wd:Q851;
+    (wdt:P31/(wdt:P279*)) wd:Q105889895.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ar". }
+  ?place rdfs:label ?enLabel.
+  FILTER((LANG(?enLabel)) = "en")
+  OPTIONAL { ?place wdt:P625 ?coordinates. }
+  ?place wdt:P31 ?type.
+  ?type rdfs:label ?typeLabel.
+  FILTER(lang(?typeLabel) = "en").
+}
+
+
+Erfrage alle Länder eines Kontinents
+
+SELECT ?country ?countryLabel ?enLabel ?coordinates WHERE {
+  ?country wdt:P30 wd:Q48.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ar". }
+  ?country rdfs:label ?enLabel.
+  FILTER(lang(?enLabel) = 'en').
+  OPTIONAL { ?country wdt:P625 ?coordinates. }
+}

@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الكوار,الكوار,الكوار,I-PERS,noun_prop
+الشهاب,الشهاب,شِهاب,O,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+البصري,البصري,بَصْرِيّ,I-PERS,noun_prop
+التاجر,التاجر,تاجِر,O,noun
+نزيل,نزيل,أَزال,O,verb
+مكة,مكة,مَكَّة,B-LOC,noun_prop
+.,.,.,O,punc

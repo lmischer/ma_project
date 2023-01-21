@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+رضوان,رضوان,رِضْوان,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+مباشر,مباشر,مُباشِر,I-PERS,noun
+الخشابية,الخشابية,الخشابيه,I-PERS,noun_prop
+واحد,واحد,واحِد,O,noun
+النواب,النواب,نائِب,O,noun
+وابوه,و+_أبوه,أَب,O,noun
+.,.,.,O,punc

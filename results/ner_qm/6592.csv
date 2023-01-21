@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+قاسم,قاسم,قاسِم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عمر,عمر,عُمَر,I-PERS,noun_prop
+الحوراني,الحوراني,الحوراني,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابي,أبي,أَبِي,O,noun_prop
+القسم,القسم,قِسْم,I-PERS,noun
+.,.,.,O,punc

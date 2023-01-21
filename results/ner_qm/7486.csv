@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+البغدادي,البغدادي,بَغْدادِيّ,I-PERS,adj
+الاصل,الأصل,أَصْل,O,noun
+القاهري,القاهري,قاهِرِيّ,O,adj
+الحنبلي,الحنبلي,حَنْبَلِيّ,I-PERS,adj
+نزيل,نزيل,أَزال,O,verb
+القراسنقرية,القراسنقرية,القراسنقريه,B-LOC,noun_prop
+ومؤدب,و+_مؤدب,مُؤَدَّب,O,noun
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+الاشقر,الأشقر,أَشْقَر,I-PERS,noun
+.,.,.,O,punc

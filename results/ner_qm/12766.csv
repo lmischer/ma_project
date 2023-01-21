@@ -1,0 +1,4 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الحريري,الحريري,حَرِيرِيّ,I-PERS,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,307 @@
+('Q41', 'Greece'), settlements
+('Q846', 'Qatar'), settlements
+('Q846', 'Qatar'), holy sites
+('Q142', 'France'), settlements
+('Q851', 'Saudi Arabia'), settlements
+('Q851', 'Saudi Arabia'), holy sites
+('Q228', 'Andorra'), settlements
+('Q228', 'Andorra'), holy sites
+('Q863', 'Tajikistan'), settlements
+('Q863', 'Tajikistan'), holy sites
+('Q222', 'Albania'), settlements
+('Q222', 'Albania'), holy sites
+('Q843', 'Pakistan'), settlements
+('Q843', 'Pakistan'), holy sites
+('Q38', 'Italy'), settlements
+('Q837', 'Nepal'), settlements
+('Q837', 'Nepal'), holy sites
+('Q214', 'Slovakia'), settlements
+('Q214', 'Slovakia'), holy sites
+('Q229', 'Cyprus'), settlements
+('Q229', 'Cyprus'), holy sites
+('Q115', 'Ethiopia'), settlements
+('Q115', 'Ethiopia'), holy sites
+('Q36', 'Poland'), settlements
+('Q33', 'Finland'), settlements
+('Q33', 'Finland'), holy sites
+('Q55', 'Netherlands'), settlements
+('Q55', 'Netherlands'), holy sites
+('Q822', 'Lebanon'), settlements
+('Q822', 'Lebanon'), holy sites
+('Q826', 'Maldives'), settlements
+('Q826', 'Maldives'), holy sites
+('Q858', 'Syria'), settlements
+('Q858', 'Syria'), holy sites
+('Q854', 'Sri Lanka'), settlements
+('Q854', 'Sri Lanka'), holy sites
+('Q826', 'Maldives'), settlements
+('Q826', 'Maldives'), holy sites
+('Q265', 'Uzbekistan'), settlements
+('Q265', 'Uzbekistan'), holy sites
+('Q35', 'Denmark'), settlements
+('Q35', 'Denmark'), holy sites
+('Q184', 'Belarus'), settlements
+('Q184', 'Belarus'), settlements
+('Q28', 'Hungary'), settlements
+('Q28', 'Hungary'), holy sites
+('Q224', 'Croatia'), settlements
+('Q224', 'Croatia'), holy sites
+('Q31', 'Belgium'), settlements
+('Q117', 'Ghana'), settlements
+('Q810', 'Jordan'), settlements
+('Q34', 'Sweden'), settlements
+('Q233', 'Malta'), settlements
+('Q32', 'Luxembourg'), settlements
+('Q39', 'Switzerland'), settlements
+('Q219', 'Bulgaria'), settlements
+('Q191', 'Estonia'), settlements
+('Q37', 'Lithuania'), settlements
+('Q37', 'Lithuania'), settlements
+('Q37', 'Lithuania'), holy sites
+('Q40', 'Austria'), settlements
+('Q43', 'Turkey'), settlements
+('Q79', 'Egypt'), settlements
+('Q79', 'Egypt'), holy sites
+('Q211', 'Latvia'), settlements
+('Q183', 'Germany'), settlements
+('Q657', 'Chad'), settlements
+('Q657', 'Chad'), holy sites
+('Q232', 'Kazakhstan'), settlements
+('Q232', 'Kazakhstan'), holy sites
+('Q874', 'Turkmenistan'), settlements
+('Q874', 'Turkmenistan'), holy sites
+('Q212', 'Ukraine'), settlements
+('Q212', 'Ukraine'), holy sites
+('Q218', 'Romania'), settlements
+('Q215', 'Slovenia'), settlements
+('Q215', 'Slovenia'), holy sites
+('Q945', 'Togo'), settlements
+('Q945', 'Togo'), holy sites
+('Q62651', 'Denmark-Norway'), settlements
+('Q62651', 'Denmark-Norway'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q967', 'Burundi'), settlements
+('Q967', 'Burundi'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q1032', 'Niger'), settlements
+('Q1032', 'Niger'), holy sites
+('Q79965', 'Golden Horde'), settlements
+('Q79965', 'Golden Horde'), holy sites
+('Q1020', 'Malawi'), settlements
+('Q1020', 'Malawi'), holy sites
+('Q23427', 'South Ossetia'), settlements
+('Q23427', 'South Ossetia'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q878', 'United Arab Emirates'), settlements
+('Q878', 'United Arab Emirates'), holy sites
+('Q167639', 'Vijayanagara Gadariya  Empire'), settlements
+('Q167639', 'Vijayanagara Gadariya  Empire'), holy sites
+('Q954', 'Zimbabwe'), settlements
+('Q912', 'Mali'), settlements
+('Q912', 'Mali'), holy sites
+('Q1246', 'Kosovo'), settlements
+('Q1246', 'Kosovo'), holy sites
+('Q1039', 'São Tomé and Príncipe'), settlements
+('Q1039', 'São Tomé and Príncipe'), holy sites
+('Q916', 'Angola'), settlements
+('Q916', 'Angola'), holy sites
+('Q62589', 'Union between Sweden and Norway'), settlements
+('Q62589', 'Union between Sweden and Norway'), holy sites
+('Q23681', 'Turkish Republic of Northern Cyprus'), settlements
+('Q23681', 'Turkish Republic of Northern Cyprus'), holy sites
+('Q420759', 'Second Bulgarian Empire'), settlements
+('Q420759', 'Second Bulgarian Empire'), holy sites
+('Q953', 'Zambia'), settlements
+('Q953', 'Zambia'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q203817', 'First Bulgarian Empire'), settlements
+('Q203817', 'First Bulgarian Empire'), holy sites
+('Q986', 'Eritrea'), settlements
+('Q986', 'Eritrea'), holy sites
+('Q974', 'Democratic Republic of the Congo'), settlements
+('Q974', 'Democratic Republic of the Congo'), holy sites
+('Q924', 'Tanzania'), settlements
+('Q924', 'Tanzania'), holy sites
+('Q157367', 'Brandenburg-Prussia'), settlements
+('Q157367', 'Brandenburg-Prussia'), holy sites
+('Q62623', 'Kalmar Union'), settlements
+('Q62623', 'Kalmar Union'), holy sites
+('Q977', 'Djibouti'), settlements
+('Q977', 'Djibouti'), holy sites
+('Q7380487', 'Kingdom of Pontus'), settlements
+('Q7380487', 'Kingdom of Pontus'), holy sites
+('Q1036', 'Uganda'), settlements
+('Q1036', 'Uganda'), holy sites
+('Q965', 'Burkina Faso'), settlements
+('Q965', 'Burkina Faso'), holy sites
+('Q93180', 'Seleucid Empire'), settlements
+('Q93180', 'Seleucid Empire'), holy sites
+('Q971', 'Republic of the Congo'), settlements
+('Q971', 'Republic of the Congo'), holy sites
+('Q1019', 'Madagascar'), settlements
+('Q1019', 'Madagascar'), holy sites
+('Q484195', 'Timurid Empire'), settlements
+('Q484195', 'Timurid Empire'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q71084', 'First French Empire'), settlements
+('Q71084', 'First French Empire'), holy sites
+('Q970', 'Comoros'), settlements
+('Q970', 'Comoros'), holy sites
+('Q862532', 'Ajuuraan state'), settlements
+('Q862532', 'Ajuuraan state'), holy sites
+('Q191484', 'Old Great Bulgaria'), settlements
+('Q191484', 'Old Great Bulgaria'), holy sites
+('Q958', 'South Sudan'), settlements
+('Q958', 'South Sudan'), holy sites
+('Q962', 'Benin'), settlements
+('Q962', 'Benin'), holy sites
+('Q181254', 'Empire of Nicaea'), settlements
+('Q181254', 'Empire of Nicaea'), holy sites
+('Q207521', 'Ethiopian Empire'), settlements
+('Q207521', 'Ethiopian Empire'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q25979', 'Kushan Empire'), settlements
+('Q25979', 'Kushan Empire'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q14624218', 'Western Chalukya Empire'), settlements
+('Q14624218', 'Western Chalukya Empire'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q1042', 'Seychelles'), settlements
+('Q1042', 'Seychelles'), holy sites
+('Q178913', 'Empire of Trebizond'), settlements
+('Q178913', 'Empire of Trebizond'), holy sites
+('Q1037', 'Rwanda'), settlements
+('Q1037', 'Rwanda'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q41137', 'Assyrian Empire'), settlements
+('Q41137', 'Assyrian Empire'), holy sites
+('Q929', 'Central African Republic'), settlements
+('Q929', 'Central African Republic'), holy sites
+('Q948', 'Tunisia'), settlements
+('Q948', 'Tunisia'), holy sites
+('Q889', 'Afghanistan'), settlements
+('Q889', 'Afghanistan'), holy sites
+('Q4461035', 'Akkadian empire'), settlements
+('Q4461035', 'Akkadian empire'), holy sites
+('Q235', 'Monaco'), settlements
+('Q235', 'Monaco'), holy sites
+('Q403', 'Serbia'), settlements
+('Q403', 'Serbia'), holy sites
+('Q796', 'Iraq'), settlements
+('Q796', 'Iraq'), holy sites
+('Q1009', 'Cameroon'), settlements
+('Q1009', 'Cameroon'), holy sites
+('Q238', 'San Marino'), settlements
+('Q238', 'San Marino'), holy sites
+('Q668', 'India'), settlements
+('Q221', 'North Macedonia'), settlements
+('Q221', 'North Macedonia'), holy sites
+('Q801', 'Israel'), settlements
+('Q801', 'Israel'), holy sites
+('Q236', 'Montenegro'), settlements
+('Q399', 'Armenia'), settlements
+('Q399', 'Armenia'), holy sites
+('Q794', 'Iran'), settlements
+('Q227', 'Azerbaijan'), settlements
+('Q230', 'Georgia'), settlements
+('Q230', 'Georgia'), holy sites
+('Q983', 'Equatorial Guinea'), settlements
+('Q983', 'Equatorial Guinea'), holy sites
+('Q1016', 'Libya'), settlements
+('Q1016', 'Libya'), holy sites
+('Q817', 'Kuwait'), settlements
+('Q817', 'Kuwait'), holy sites
+('Q225', 'Bosnia and Herzegovina'), settlements
+('Q225', 'Bosnia and Herzegovina'), holy sites
+('Q1016', 'Libya'), settlements
+('Q1016', 'Libya'), holy sites
+('Q262', 'Algeria'), settlements
+('Q262', 'Algeria'), holy sites
+('Q1000', 'Gabon'), settlements
+('Q1000', 'Gabon'), holy sites
+('Q347', 'Liechtenstein'), settlements
+('Q347', 'Liechtenstein'), holy sites
+('Q237', 'Vatican City'), settlements
+('Q237', 'Vatican City'), holy sites
+('Q815524', 'Belgian colonial empire'), settlements
+('Q815524', 'Belgian colonial empire'), holy sites
+('Q1033', 'Nigeria'), settlements
+('Q1033', 'Nigeria'), holy sites
+('Q22880', 'Electoral Palatinate'), settlements
+('Q22880', 'Electoral Palatinate'), holy sites
+('Q8680', 'British Empire'), settlements
+('Q8680', 'British Empire'), holy sites
+('Q330533', 'Seventeen Provinces'), settlements
+('Q330533', 'Seventeen Provinces'), holy sites
+('Q219060', 'State of Palestine'), settlements
+('Q1049', 'Sudan'), settlements
+('Q1049', 'Sudan'), holy sites
+('Q1028', 'Morocco'), settlements
+('Q1028', 'Morocco'), holy sites
+('Q124943', 'Kingdom of Egypt'), settlements
+('Q124943', 'Kingdom of Egypt'), holy sites
+('Q1986139', 'Parthian Empire'), settlements
+('Q1986139', 'Parthian Empire'), holy sites
+('Q47588', 'Basque Country'), settlements
+('Q47588', 'Basque Country'), holy sites
+('Q370173', 'Sultanate of Egypt'), settlements
+('Q370173', 'Sultanate of Egypt'), holy sites
+('Q1852345', 'Trucial States'), settlements
+('Q1852345', 'Trucial States'), holy sites
+('Q907112', 'Transnistria'), settlements
+('Q907112', 'Transnistria'), holy sites
+('Q577668', 'Khanate of Bukhara'), settlements
+('Q577668', 'Khanate of Bukhara'), holy sites
+('Q756617', 'Kingdom of Denmark'), settlements
+('Q756617', 'Kingdom of Denmark'), holy sites
+('Q127861', 'Khedivate of Egypt'), settlements
+('Q127861', 'Khedivate of Egypt'), holy sites
+('Q427941', 'Islamic Emirate of Afghanistan'), settlements
+('Q427941', 'Islamic Emirate of Afghanistan'), holy sites
+('Q2277', 'Roman Empire'), settlements
+('Q2277', 'Roman Empire'), holy sites
+('Q34754', 'Somaliland'), settlements
+('Q34754', 'Somaliland'), holy sites
+('Q696241', 'Khanate of Kokand'), settlements
+('Q696241', 'Khanate of Kokand'), holy sites
+('Q12544', 'Byzantine Empire'), settlements
+('Q12544', 'Byzantine Empire'), holy sites
+('Q1045', 'Somalia'), settlements
+('Q1045', 'Somalia'), holy sites
+('Q3908', 'Galicia'), settlements
+('Q3908', 'Galicia'), holy sites
+('Q29999', 'Kingdom of the Netherlands'), settlements
+('Q29999', 'Kingdom of the Netherlands'), holy sites
+('Q244165', 'Republic of Artsakh'), settlements
+('Q244165', 'Republic of Artsakh'), holy sites
+('Q1016', 'Libya'), settlements
+('Q1016', 'Libya'), holy sites
+('Q329618', 'German colonial empire'), settlements
+('Q329618', 'German colonial empire'), holy sites
+('Q1188459', 'Yarkent Khanate'), settlements
+('Q1188459', 'Yarkent Khanate'), holy sites
+('Q5257', 'Satavahana dynasty'), settlements
+('Q5257', 'Satavahana dynasty'), holy sites
+('Q2641492', 'Triveneto'), settlements
+('Q2641492', 'Triveneto'), holy sites
+('Q926295', 'Italian Empire'), settlements
+('Q926295', 'Italian Empire'), holy sites
+('Q1029', 'Mozambique'), settlements
+('Q1029', 'Mozambique'), holy sites
+('Q5705', 'Catalonia'), settlements
+('Q5705', 'Catalonia'), holy sites
+('Q976091', 'East African Federation'), settlements
+('Q976091', 'East African Federation'), holy sites
+('Q1410', 'Gibraltar'), settlements
+('Q1410', 'Gibraltar'), holy sites

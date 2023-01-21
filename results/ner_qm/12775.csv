@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الحلاج,الحلاج,حَلّاج,I-PERS,noun
+بالتشديد,ب+_التشديد,تَشْدِيد,O,noun
+ثم,ثم,ثُمَّ,O,adv
+جيم,جيم,جِيم,O,noun
+يوسف,يوسف,يُوسِف,B-PERS,noun_prop
+الهروي,الهروي,هَرَوِيّ,I-PERS,adj
+وابنه,و+_ابنه,ٱِبْن,O,noun
+.,.,.,O,punc

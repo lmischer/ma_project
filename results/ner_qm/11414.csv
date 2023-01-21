@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,O,noun_prop
+اللطف,اللطف,لُطْف,I-PERS,noun
+في,في,فِي,O,prep
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+منصور,منصور,مَنْصُور,I-PERS,noun_prop
+.,.,.,O,punc

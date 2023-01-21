@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الوهاب,الوهاب,وَهّاب,I-PERS,noun_prop
+الخانكي,الخانكي,الخانكي,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الوهاب,الوهاب,وَهّاب,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سليمان,سليمان,سُلَيْمان,I-PERS,noun_prop
+ووكيل,و+_وكيل,وَكِيل,I-PERS,noun
+.,.,.,O,punc

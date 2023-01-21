@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+شعيب,شعيب,شُعَيْب,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+شعيب,شعيب,شُعَيْب,I-PERS,noun_prop
+.,.,.,O,punc
+ياتي,يأتي,أَتَى,O,verb
+.,.,.,O,punc

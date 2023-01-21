@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الناسخ,الناسخ,ناسِخ,I-PERS,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+الطرابلسي,الطرابلسي,طَرابُلْسِيّ,I-PERS,noun_prop
+المالكي,المالكي,مالِكِيّ,I-PERS,noun
+هو,هو,هُوَ,O,pron
+الذي,الذي,الَّذِي,O,pron_rel
+ضرب,ضرب,ضَرْب,O,noun
+رقبة,رقبة,رَقَبَة,O,noun
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+عبادة,عبادة,عِبادَة,I-PERS,noun
+بطرابلس,ب+_طرابلس,طَرابُلُس,B-LOC,noun_prop
+.,.,.,O,punc

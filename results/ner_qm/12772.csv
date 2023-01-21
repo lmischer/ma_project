@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الحطب,الحطب,حَطَب,I-PERS,noun
+بفتحتين,ب+_فتحتين,فَتْحَة,O,noun
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+فرج,فرج,فَرَج,I-PERS,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,15 @@
+token,tokenized,lemma,ne_label,pos
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+الحلبي,الحلبي,حَلَبِيّ,I-PERS,noun_prop
+قاضي,قاضي,قاضِي,O,noun
+كرك,كرك,كَرّ,O,noun
+نوح,نوح,نُوح,I-ORG,noun_prop
+.,.,.,O,punc
+مضى,مضى,مَضَى,O,verb
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الله,الله,اللَّه,I-PERS,noun_prop
+.,.,.,O,punc

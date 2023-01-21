@@ -1,0 +1,17 @@
+token,tokenized,lemma,ne_label,pos
+الجناجي,الجناجي,الجناجي,B-LOC,noun_prop
+بجيمين,ب+_جيمين,جِيم,O,noun
+اولاهما,أولاهما,أَوَّل,O,adj
+مفتوحة,مفتوحة,مَفْتُوح,O,adj
+بينهما,بينهما,بَيِّن,O,noun
+نون,نون,نُون,O,noun
+خفيفة,خفيفة,خَفِيف,O,adj
+من,من,مِن,O,prep
+الغربية,الغربية,غَرْبِيّ,O,adj
+البدر,البدر,بَدْر,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

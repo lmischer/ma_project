@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+سميط,سميط,سميط,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+.,.,.,O,punc

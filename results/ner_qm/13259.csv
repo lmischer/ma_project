@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المستاذن,المستاذن,المستاذن,I-PERS,noun_prop
+ابو,أبو,أَبُو,B-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+يوسف,يوسف,يُوسِف,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+الفتح,الفتح,فَتْح,I-PERS,noun
+.,.,.,O,punc

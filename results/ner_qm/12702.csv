@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+بهاء,بهاء,بَهاء,O,noun
+الشمس,الشمس,شَمْس,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+القباني,القباني,القباني,I-PERS,noun_prop
+بباب,ب+_باب,باب,O,noun
+الفتوح,الفتوح,فَتْح,I-PERS,noun
+وابنه,و+_ابنه,ٱِبْن,O,noun
+علي,على,عَلَى,B-PERS,prep
+.,.,.,O,punc

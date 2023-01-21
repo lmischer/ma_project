@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+جرادة,جرادة,جَراد,I-PERS,noun
+العز,العز,عِزّ,O,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+العزيز,العزيز,عَزِيز,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+العديم,العديم,عَدِيم,I-PERS,adj
+واخرون,و+_آخرون,آخَر,O,adj
+.,.,.,O,punc

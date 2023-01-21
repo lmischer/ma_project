@@ -1,0 +1,14 @@
+token,tokenized,lemma,ne_label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المخلطة,المخلطة,مُخَلَّط,O,adj
+ناصر,ناصر,ناصِر,B-PERS,noun_prop
+الدين,الدين,دِين,I-PERS,noun
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+وابنه,و+_ابنه,ٱِبْن,O,noun
+البدر,البدر,بَدْر,B-PERS,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+وابنه,و+_ابنه,ٱِبْن,O,noun
+يوسف,يوسف,يُوسِف,B-PERS,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+قفيف,قفيف,قفيف,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+ومبارك,و+_مبارك,مُبارَك,B-PERS,noun_prop
+.,.,.,O,punc

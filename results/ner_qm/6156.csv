@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+عمار,عمار,عَمّار,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+خمليش,خمليش,خمليش,I-PERS,noun_prop
+،,،,،,O,punc
+شيخ,شيخ,شَيْخ,O,noun
+اولاد,أولاد,وَلَد,O,noun
+حسين,حسين,حُسَيْن,I-PERS,noun_prop
+عرب,عرب,عَرَب,O,noun
+فاس,فاس,فاس,B-LOC,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الشواء,الشواء,شَوّاء,I-PERS,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الغني,الغنى,غِنَى,I-PERS,noun
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الحميد,الحميد,حَمِيد,I-PERS,noun_prop
+المنوفي,المنوفي,مَنُوفِيّ,I-PERS,noun
+وعلي,و+_علي,عَلِيّ,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+.,.,.,O,punc

@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+راشد,راشد,راشِد,I-PERS,noun_prop
+سليمان,سليمان,سُلَيْمان,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سليمان,سليمان,سُلَيْمان,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+راشد,راشد,راشِد,I-PERS,noun_prop
+.,.,.,O,punc

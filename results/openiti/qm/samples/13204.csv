@@ -1,0 +1,16 @@
+token,tokenized,lemma,ne_label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الكاتب,الكاتب,كاتِب,O,noun
+الخواجا,الخواجا,الخواجا,B-PERS,noun_prop
+السكندري,الNOAN,سكندري,O,noun_prop
+مات,مات,مات,O,verb
+بمكة,ب+_مكة,مَكَّة,B-LOC,noun_prop
+في,في,فِي,O,prep
+رجب,رجب,رَجَب,O,noun_prop
+سنة,سنة,سَنَة,O,noun
+اثنتين,ٱثنتين,ٱِثْنَتانِ,O,adj
+وستين,و+_ستين,سِتّ,O,noun
+ارخه,أرخه,رَخِي,O,verb
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+فهد,فهد,فَهْد,I-PERS,noun_prop
+.,.,.,O,punc

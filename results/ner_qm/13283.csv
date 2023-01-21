@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المقري,المقرى,مِقْرَى,I-PERS,noun
+اسماعيل,إسماعيل,إِسْماعِيل,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+.,.,.,O,punc

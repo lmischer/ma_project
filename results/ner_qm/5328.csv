@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+خلد,خلد,خُلْد,I-PERS,noun
+النجار,النجار,نَجّار,I-PERS,noun_prop
+بباب,ب+_باب,باب,O,noun
+الخرق,الخرق,خَرْق,I-LOC,noun
+والشهير,و+_الشهير,شَهِير,O,adj
+بحب,ب+_حب,حُبّ,O,noun
+الرمان,الرمان,رُمّان,I-MISC,noun
+ممن,ممن,مِن,O,prep
+سمع,سمع,سَمِع,O,verb
+مني,مني,مِن,O,prep
+بالمدينة,ب+_المدينة,مَدِينَة,B-LOC,noun
+.,.,.,O,punc

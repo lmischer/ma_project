@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+الداودي,الداودي,الداودي,B-PERS,noun_prop
+نسبة,نسبة,نِسْبَة,O,noun
+لداود,ل+_داود,داوُد,O,noun_prop
+الغرب,الغرب,غَرْب,I-PERS,noun
+التفهني,التفهني,التفهني,I-PERS,noun_prop
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الظاهر,الظاهر,ظاهِر,I-PERS,noun
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الظاهر,الظاهر,ظاهِر,I-PERS,noun
+.,.,.,O,punc

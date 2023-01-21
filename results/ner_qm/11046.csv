@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,B-PERS,noun_prop
+حامد,حامد,حامِد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ظهيرة,ظهيرة,ظَهِيرَة,I-PERS,noun
+هو,هو,هُوَ,O,pron
+ابن,ابن,ٱِبْن,O,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+الخير,الخير,خَيْر,I-PERS,noun
+المشار,المشار,مُشار,O,adj
+اليه,إليه,إِلَى,O,prep
+قريبا,قريبا,قَرِيب,O,adj
+.,.,.,O,punc

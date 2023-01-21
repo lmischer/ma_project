@@ -1,0 +1,17 @@
+token,tokenized,lemma,ne_label,pos
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+اثنان,ٱثنان,ٱِثْنانِ,O,adj
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+الامام,الإمام,إِمام,I-PERS,noun
+وابن,و+_ابن,ٱِبْن,O,noun
+موسى,موسى,مُوسَى,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+بلال,بلال,بِلال,I-PERS,noun_prop
+المقرى,المقرى,مِقْرَى,I-PERS,noun
+.,.,.,O,punc

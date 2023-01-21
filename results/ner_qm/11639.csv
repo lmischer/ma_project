@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+حب,حب,حُبّ,O,noun
+الله,الله,اللَّه,I-PERS,noun_prop
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الوهاب,الوهاب,وَهّاب,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

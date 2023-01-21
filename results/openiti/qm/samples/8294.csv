@@ -1,0 +1,16 @@
+token,tokenized,lemma,ne_label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+السيد,السيد,سَيِّد,I-PERS,noun_prop
+شمس,شمس,شَمْس,I-PERS,noun_prop
+الدين,الدين,دِين,I-PERS,noun
+الجرجاني,الجرجاني,الجرجاني,I-PERS,noun_prop
+.,.,.,O,punc
+مضى,مضى,مَضَى,O,verb
+فيمن,ف+_يمن,يَمَن,O,noun_prop
+جده,جده,جَدّ,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+.,.,.,O,punc

@@ -1,0 +1,10 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المراة,المرأة,مَرْأَة,I-PERS,noun
+ابراهيم,إبراهيم,إِبْراهِيم,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+يوسف,يوسف,يُوسِف,I-PERS,noun_prop
+ويقال,و+_يقال,قال,O,verb
+بدون,ب+_دون,دُون,O,noun
+الف,ألف,أَلْف,O,noun
+.,.,.,O,punc

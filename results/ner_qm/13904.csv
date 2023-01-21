@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ضوء,ضوء,ضَوْء,O,noun
+الصباح,الصباح,صَباح,I-MISC,noun
+ابنة,ابنة,ٱِبْنَة,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عمر,عمر,عُمَر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سلمان,سلمان,سَلْمان,I-PERS,noun_prop
+البالسي,البالسي,البالسي,I-PERS,noun_prop
+واسمها,و+_اسمها,ٱِسْم,O,noun
+عائشة,عائشه,عائِش,B-PERS,noun
+تاتي,تأتي,أَتَى,I-PERS,verb

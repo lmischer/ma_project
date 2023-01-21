@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الغفار,الغفار,غَفّار,I-PERS,adj
+البدر,البدر,بَدْر,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+ثم,ثم,ثُمَّ,O,adv
+الشرف,الشرف,شَرَف,O,noun
+موسى,موسى,مُوسَى,B-PERS,noun_prop
+ثم,ثم,ثُمَّ,O,adv
+الجلال,الجلال,جَلال,O,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+والثلاثة,و+_الثلاثة,ثَلاث,O,adj
+اشقاء,أشقاء,شَقِيق,O,noun
+.,.,.,O,punc

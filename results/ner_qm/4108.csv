@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+البواب,البواب,بَوّاب,I-PERS,noun
+العطار,العطار,عَطّار,O,noun_prop
+بباب,ب+_باب,باب,O,noun
+السلام,السلام,سَلام,I-LOC,noun
+.,.,.,O,punc
+مات,مات,مات,O,verb
+بمكة,ب+_مكة,مَكَّة,B-LOC,noun_prop
+في,في,فِي,O,prep
+صفر,صفر,صِفْر,O,noun
+سنة,سنة,سَنَة,O,noun
+ستين,ستين,سِتّ,O,noun
+.,.,.,O,punc

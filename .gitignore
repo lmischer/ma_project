@@ -1,0 +1,9 @@
+*__pycache__/
+*.ipynb
+
+resources/date*
+
+results/*/extended.csv
+
+results/wikidata/query_results/
+/.ipynb_checkpoints/

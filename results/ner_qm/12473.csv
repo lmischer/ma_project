@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+الكمالي,الكمالي,كَمالِيّ,O,adj
+نسبة,نسبة,نِسْبَة,O,noun
+لكمال,ل+_كمال,كَمال,O,noun_prop
+الدين,الدين,دِين,I-PERS,noun
+.,.,.,O,punc

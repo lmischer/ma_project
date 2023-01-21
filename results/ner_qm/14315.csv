@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+نور,نور,نُور,O,noun_prop
+الصباح,الصباح,صَباح,I-MISC,noun
+الحبشية,الحبشية,حَبَشِيّ,O,adj
+مستودلة,مستودلة,مستودله,O,noun_prop
+علي,على,عَلَى,B-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+الطاهر,الطاهر,طاهِر,I-PERS,noun_prop
+.,.,.,O,punc
+ماتت,ماتت,مات,O,verb
+بمكة,ب+_مكة,مَكَّة,B-LOC,noun_prop
+في,في,فِي,O,prep
+رمضان,رمضان,رَمَضان,O,noun_prop
+سنة,سنة,سَنَة,O,noun
+ثمان,ثمان,ثَمانِي,O,noun
+وتسعين,و+_تسعين,سَعَى,O,verb
+.,.,.,O,punc

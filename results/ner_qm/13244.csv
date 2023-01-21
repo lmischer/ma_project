@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+المحوجب,المحوجب,المحوجب,I-PERS,noun_prop
+في,في,فِي,O,prep
+المحوجب,المحوجب,المحوجب,O,noun_prop
+.,.,.,O,punc

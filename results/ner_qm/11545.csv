@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+عضد,عضد,عَضُد,O,noun
+الدين,الدين,دِين,I-PERS,noun
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+النظام,النظام,نِظام,I-PERS,noun
+يحيى,يحيى,يَحْيَى,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+سيف,سيف,سَيْف,I-PERS,noun_prop
+الصيرامي,الصيرامي,الصيرامي,I-PERS,noun_prop
+والنظامي,و+_النظامي,نِظامِيّ,B-PERS,adj
+في,في,فِي,O,prep
+ابي,أبي,أَبِي,B-PERS,noun_prop
+الخير,الخير,خَيْر,I-PERS,noun
+.,.,.,O,punc

@@ -1,0 +1,15 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,O,noun_prop
+الفتح,الفتح,فَتْح,I-PERS,noun
+الواعظ,الواعظ,واعِظ,O,noun
+الحسيني,الحسيني,حُسَيْنِيّ,O,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+معمر,معمر,مُعَمَّر,I-PERS,noun_prop
+واخر,و+_آخر,آخِر,O,noun
+مضى,مضى,مَضَى,O,verb
+في,في,فِي,O,prep
+القمني,ألقمني,أَلْقَم,B-PERS,verb
+.,.,.,O,punc

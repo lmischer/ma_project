@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+الرؤوس,الرؤوس,رَأْس,I-PERS,noun
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+وابنه,و+_ابنه,ٱِبْن,O,noun
+بركات,بركات,بَرَكات,B-PERS,noun_prop
+.,.,.,O,punc

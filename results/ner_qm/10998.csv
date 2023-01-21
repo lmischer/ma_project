@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,B-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+التقي,التقى,ٱِلْتَقَى,O,verb
+الطرابلسي,الطرابلسي,طَرابُلْسِيّ,I-PERS,noun_prop
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,B-PERS,noun_prop
+اسماعيل,إسماعيل,إِسْماعِيل,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عمر,عمر,عُمَر,I-PERS,noun_prop
+.,.,.,O,punc

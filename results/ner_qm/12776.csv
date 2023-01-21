@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الحلال,الحلال,حَلال,I-PERS,noun
+بالتشديد,ب+_التشديد,تَشْدِيد,O,noun
+ثم,ثم,ثُمَّ,O,adv
+لام,ل+_أم,أُمّ,O,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

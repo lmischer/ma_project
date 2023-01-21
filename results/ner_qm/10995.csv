@@ -1,0 +1,12 @@
+token,tokenized,lemma,label,pos
+ابو,أبو,أَبُو,B-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+الحلاوي,الحلاوى,حَلاوَى,I-PERS,noun_prop
+في,في,فِي,O,prep
+ابن,ابن,ٱِبْن,O,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+بكر,بكر,بَكْر,I-PERS,noun_prop
+.,.,.,O,punc

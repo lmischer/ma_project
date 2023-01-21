@@ -1,0 +1,24 @@
+gazetteer, 0    NaN
+1     81
+2     81
+3     81
+4     81
+5     81
+6     81
+7     81
+8     81
+9     81
+Name: value_counts, dtype: object
+mean, how often is a place matched on average: 72.97131147540983 gazetteer
+wikidata, 0          NaN
+1    Q12221972
+2    Q12221972
+3    Q12221972
+4    Q12221972
+5    Q12221972
+6    Q12189321
+7    Q12189321
+8    Q12189321
+9     Q3286586
+Name: value_counts, dtype: object
+mean, how often is a place matched on average: 13.628366247755835 wikidata

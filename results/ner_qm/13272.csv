@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+وابن,و+_ابن,ٱِبْن,O,noun
+المظفر,المظفر,مُظَفَّر,O,noun_prop
+الكازروني,الكازروني,الكازروني,O,noun_prop
+هومحمد,هومحمد,هومحمد,O,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الله,الله,اللَّه,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+.,.,.,O,punc

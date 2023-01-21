@@ -1,0 +1,13 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+مكية,مكية,مَكِّيّ,I-PERS,adj
+النابلسي,النابلسي,نابُلْسِيّ,O,adj
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الرحمن,الرحمن,رَحْمٰن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+الكريم,الكريم,كَرِيم,I-PERS,noun_prop
+وابوه,و+_أبوه,أَب,O,noun
+.,.,.,O,punc

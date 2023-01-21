@@ -1,0 +1,17 @@
+token,tokenized,lemma,label,pos
+فاطمة,فاطمة,فاطِمَة,B-PERS,noun_prop
+ابنة,ابنة,ٱِبْنَة,O,noun
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+بن,بن,بِن,I-PERS,noun_prop
+احمد,أحمد,أَحْمَد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+العزيز,العزيز,عَزِيز,I-PERS,noun_prop
+.,.,.,O,punc
+في,في,فِي,O,prep
+ام,أم,أَم,O,conj
+الحسين,الحسين,حُسَيْن,I-PERS,noun_prop

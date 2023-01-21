@@ -1,0 +1,13 @@
+token,tokenized,lemma,ne_label,pos
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+ابراهيم,إبراهيم,إِبْراهِيم,I-PERS,noun_prop
+الكردي,الكردي,كُرْدِيّ,I-PERS,adj
+ثم,ثم,ثُمَّ,O,adv
+المكي,المكي,مَكِّيّ,B-PERS,adj
+.,.,.,O,punc
+ممن,ممن,مِن,O,prep
+سمع,سمع,سَمِع,O,verb
+مني,مني,مِن,O,prep
+بمكة,ب+_مكة,مَكَّة,B-LOC,noun_prop
+.,.,.,O,punc

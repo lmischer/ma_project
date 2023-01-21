@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+يونس,يونس,يُونِس,I-PERS,noun_prop
+المغربي,المغربي,مَغْرِبِيّ,O,adj
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+.,.,.,O,punc

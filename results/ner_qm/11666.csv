@@ -1,0 +1,11 @@
+token,tokenized,lemma,label,pos
+خواجا,خواجا,خواجا,O,noun_prop
+سلطان,سلطان,سُلْطان,I-PERS,noun_prop
+هو,هو,هُوَ,O,pron
+محمود,محمود,مَحْمُود,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+بهاء,بهاء,بَهاء,I-PERS,noun
+الدين,الدين,دِين,I-PERS,noun
+الكيلاني,الكيلاني,الكيلاني,I-PERS,noun_prop
+تقدم,تقدم,تَقَدَّم,O,verb
+.,.,.,O,punc

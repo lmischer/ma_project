@@ -1,0 +1,4 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+الاسياد,الأسياد,سَيِّد,I-MISC,noun_prop
+.,.,.,O,punc

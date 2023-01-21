@@ -1,0 +1,6 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+البالسي,البالسي,البالسي,I-MISC,noun_prop
+في,في,فِي,O,prep
+البالسي,البالسي,البالسي,B-LOC,noun_prop
+.,.,.,O,punc

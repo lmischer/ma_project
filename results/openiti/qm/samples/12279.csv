@@ -1,0 +1,17 @@
+token,tokenized,lemma,ne_label,pos
+الصندلي,الصندلي,الصندلي,O,noun_prop
+بنون,ب+_نون,نُون,O,noun
+ثم,ثم,ثُمَّ,O,adv
+مهملة,مهملة,مُهْمَل,O,adj
+ولام,و+_لام,لام,O,verb
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+محمد,محمد,مُحَمَّد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+الشيخ,الشيخ,شَيْخ,I-PERS,noun_prop
+ابي,أبي,أَبِي,I-PERS,noun_prop
+الحسن,الحسن,حَسَن,I-PERS,noun_prop
+اللامي,اللامي,اللامي,I-PERS,noun_prop
+.,.,.,O,punc

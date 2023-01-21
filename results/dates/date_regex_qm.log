@@ -1,0 +1,14 @@
+day:
+True     1158
+False     264
+nan       189
+Name: day_bool, dtype: int64
+month:
+True     1490
+False     121
+Name: month_bool, dtype: int64
+year:
+True     1499
+False     101
+nan        11
+Name: year_bool, dtype: int64

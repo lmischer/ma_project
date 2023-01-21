@@ -1,0 +1,16 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+فقوسة,ف+_قوسه,قَوْس,I-PERS,noun
+عبد,عبد,عَبْد,B-PERS,noun_prop
+القادر,القادر,قادِر,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسن,حسن,حَسَن,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+علي,على,عَلَى,I-PERS,prep
+البخانقي,البخانقي,البخانقي,I-PERS,noun_prop
+وبنوه,و+_بنوه,بَنَى,O,verb
+عرض,عرض,عَرَض,O,verb
+على,على,عَلَى,O,prep
+ثلاثة,ثلاثة,ثَلاث,O,adj
+منهم,منهم,مِن,O,prep
+.,.,.,O,punc

@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+الحسن,الحسن,حَسَن,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+داود,داود,داوُد,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+حسين,حسين,حُسَيْن,I-PERS,noun_prop
+الاطفيحي,الاطفيحي,الاطفيحي,I-PERS,noun_prop
+ثم,ثم,ثُمَّ,O,adv
+الطنتدائي,الطنتدائي,الطنتدائي,B-PERS,noun_prop
+الغمري,الغمري,الغمري,I-PERS,noun_prop
+قاضيها,قاضيها,قاضِي,O,noun
+ويعرف,و+_يعرف,عَرَف,O,verb
+بفارس,ب+_فارس,فارِس,O,noun_prop
+ياتي,يأتي,أَتَى,I-PERS,verb

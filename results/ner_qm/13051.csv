@@ -1,0 +1,14 @@
+token,tokenized,lemma,label,pos
+ابن,ابن,ٱِبْن,O,noun_prop
+العدوي,العدوى,عَدْوَى,I-PERS,noun
+والصلاح,و+_الصلاح,صَلاح,O,noun_prop
+محمد,محمد,مُحَمَّد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبدالله,عبدالله,عَبْداللّٰه,I-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+عبد,عبد,عَبْد,I-PERS,noun_prop
+السلام,السلام,سَلام,I-PERS,noun
+وكيل,وكيل,وَكِيل,O,noun
+السلطان,السلطان,سُلْطان,O,noun
+بدمشق,ب+_دمشق,دِمَشْق,B-LOC,noun_prop
+.,.,.,O,punc

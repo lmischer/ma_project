@@ -1,0 +1,15 @@
+token,tokenized,lemma,ne_label,pos
+احمد,أحمد,أَحْمَد,B-PERS,noun_prop
+بن,بن,بِن,I-PERS,noun_prop
+صبح,صبح,صُبْح,I-PERS,noun
+احد,أحد,أَحَد,O,noun
+الظلمة,الظلمة,ظُلْمَة,O,noun
+بدمشق,ب+_دمشق,دِمَشْق,B-LOC,noun_prop
+.,.,.,O,punc
+مات,مات,مات,O,verb
+بقلعتها,ب+_قلعتها,قَلْعَة,O,noun
+في,في,فِي,O,prep
+سنة,سنة,سَنَة,O,noun
+ثلاث,ثلاث,ثَلاث,O,adj
+وتسعين,و+_تسعين,سَعَى,O,verb
+.,.,.,O,punc
